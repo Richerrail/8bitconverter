@@ -1,12 +1,16 @@
 # 🎮 8-Bit Audio Converter
 
-Convertissez n'importe quel fichier audio en son rétro 8-bit avec style ! Un outil web simple et efficace qui transforme vos pistes audio en véritables chefs-d'œuvre pixelisés, le tout dans une interface inspirée de l'ère des Space Invaders.
+Convertissez n'importe quel fichier audio en son rétro 8-bit avec style ! Un outil web simple et efficace qui transforme vos pistes audio en véritables chefs-d'œuvre pixelisés, le tout dans une interface rétro.
 
 ![Space Invaders Theme](https://img.shields.io/badge/Theme-Space%20Invaders-39FF14?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Tech](https://img.shields.io/badge/Tech-HTML5%20%7C%20JS%20%7C%20Web%20Audio%20API-orange?style=flat-square)
 
 ![Screenshot](screenshot.png)
+
+## 🌐 Accès en Ligne
+
+**Essayez l'application directement en ligne :** https://richerrail.github.io/8bitconverter/
 
 ## ✨ Fonctionnalités
 
